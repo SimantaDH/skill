@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this skill, please cite it as below."
+title: "PressReady: A modular LLM skill for formatting research manuscripts to Bloomsbury and Routledge house styles"
+type: software
+version: "1.0"
+date-released: "2026-11-03"
+license: CC-BY-NC-4.0
+repository-code: "https://github.com/SimantaDH/skill"
+url: "https://simantadh.github.io/skill/"
+authors:
+  - family-names: Nandi
+    given-names: Simanta
+    affiliation: "Indian Institute of Technology (Indian School of Mines) Dhanbad"
+    email: 25ma0013@iitism.ac.in
+keywords:
+  - large language models
+  - LLM skills
+  - academic publishing
+  - house style
+  - manuscript preparation
+  - Bloomsbury
+  - Routledge
+  - Taylor & Francis
+  - digital humanities
